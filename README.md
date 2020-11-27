@@ -14,7 +14,7 @@
 
 <h3>Technologies & Systems</h3>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" width="40" height="40"/> 
 <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="linux" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="nodejs" width="40" height="40"/> 
 

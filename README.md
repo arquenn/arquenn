@@ -9,13 +9,13 @@
 <img src="https://www.softexia.com/wp-content/uploads/2017/04/Java-logo.png" alt="php" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="html5" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </p>
 
 <h3>Technologies & Systems</h3>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-<img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" alt="linux" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://angular.io/assets/images/logos/angular/angular.png" alt="linux" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="nodejs" width="40" height="40"/> 
 
